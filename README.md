@@ -46,9 +46,9 @@ Place the experimental videos in a folder named `OFICIAL`.
 
 Videos must follow the naming convention:
 
-vidA (1) -> 1 Hz
-vidA (2) -> 50 Hz
-vidA (3) -> 100 Hz
+- vidA (1) -> 1 Hz
+- vidA (2) -> 50 Hz
+- vidA (3) -> 100 Hz
 
 Run:
 
@@ -62,5 +62,7 @@ and statistical summaries, together with graphical results.
 ## Author
 
 Clara Cembranos Martínez
+
 Bachelor's Thesis – Biomedical Engineering
+
 Universidad Carlos III de Madrid / Instituto Cajal CNC-CSIC
